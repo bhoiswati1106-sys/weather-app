@@ -1,6 +1,7 @@
 # Weather App
 
 A simple and responsive Weather App built using HTML, CSS, and JavaScript.
+Live Demo : https://bhoiswati1106-sys.github.io/weather-app/
 
 # Features
 
