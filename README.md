@@ -4,9 +4,6 @@ A simple weather app where users can search any city and see its current weather
 
 🔗 **Live Demo:** https://bhoiswati1106-sys.github.io/weather-app/
 
-
-![Weather App Screenshot](docs/screenshot.png)
-
 ## ✨ Features
 
 - Search weather by city name
@@ -28,8 +25,6 @@ weather-app/
 ├── index.html
 ├── style.css
 ├── script.js
-├── docs/
-│   └── screenshot.png
 └── README.md
 ```
 
